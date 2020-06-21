@@ -12,7 +12,8 @@
 👤 **Tomás Lopes / Diogo Alves**
 
 * Twitter: [@tomas050302](https://twitter.com/tomas050302)
-* Github: [@tomas050302 & digaso](https://github.com/tomas050302 & digaso)
+* Github: [@tomas050302](https://github.com/tomas050302)
+* Github: [@digaso](https://github.com/digaso)
 
 ## Show your support
 
