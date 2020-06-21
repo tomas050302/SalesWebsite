@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Sales webiste using a free web template to consume SQL database data with backoffice
+> Sales website using a free web template to consume SQL database data with backoffice
 
 ## Author
 
